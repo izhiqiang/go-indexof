@@ -1,0 +1,7 @@
+{
+  "port": 8080,
+  "index_of": {
+    "name": "local",
+    "root": "./"
+  }
+}
